@@ -335,6 +335,7 @@ DEPENDENCIES
   csv
   github-pages
   jekyll-feed
+  jekyll-include-cache
   minimal-mistakes-jekyll
 
 CHECKSUMS
